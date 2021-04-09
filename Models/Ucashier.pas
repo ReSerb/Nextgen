@@ -2,7 +2,9 @@ unit Ucashier;
 
 interface
 type
-cashier=class;
+cashier=class
+
+end;
 
 implementation
 

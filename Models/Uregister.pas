@@ -2,7 +2,9 @@ unit Uregister;
 
 interface
 type
-register=class;
+register=class
+
+end;
 
 implementation
 

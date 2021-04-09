@@ -2,7 +2,9 @@ unit Uledger;
 
 interface
 type
-ledger=class;
+ledger=class
+
+end;
 implementation
 
 end.

@@ -7,13 +7,16 @@ uses
   Usaleslineitem in 'Models\Usaleslineitem.pas',
   Ucashpayment in 'Models\Ucashpayment.pas',
   Ucustomer in 'Models\Ucustomer.pas',
-  Uregister in 'Models\Uregister.pas',
   Ucashier in 'Models\Ucashier.pas',
   Ustore in 'Models\Ustore.pas',
   Uitem in 'Models\Uitem.pas',
   Uledger in 'Models\Uledger.pas',
   Uproductcatalog in 'Models\Uproductcatalog.pas',
-  Uproductdescription in 'Models\Uproductdescription.pas';
+  UPayment in 'Models\UPayment.pas',
+  UMoney in 'Models\UMoney.pas',
+  Uproductdescription in 'Models\Uproductdescription.pas',
+  UItemId in 'Models\UItemId.pas',
+  URegester in 'Models\URegester.pas';
 
 {$R *.res}
 

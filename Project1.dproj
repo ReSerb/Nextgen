@@ -90,13 +90,16 @@
 			<DCCReference Include="Models\Usaleslineitem.pas"/>
 			<DCCReference Include="Models\Ucashpayment.pas"/>
 			<DCCReference Include="Models\Ucustomer.pas"/>
-			<DCCReference Include="Models\Uregister.pas"/>
 			<DCCReference Include="Models\Ucashier.pas"/>
 			<DCCReference Include="Models\Ustore.pas"/>
 			<DCCReference Include="Models\Uitem.pas"/>
 			<DCCReference Include="Models\Uledger.pas"/>
 			<DCCReference Include="Models\Uproductcatalog.pas"/>
+			<DCCReference Include="Models\UPayment.pas"/>
+			<DCCReference Include="Models\UMoney.pas"/>
 			<DCCReference Include="Models\Uproductdescription.pas"/>
+			<DCCReference Include="Models\UItemId.pas"/>
+			<DCCReference Include="Models\URegester.pas"/>
 			<BuildConfiguration Include="Release">
 				<Key>Cfg_2</Key>
 				<CfgParent>Base</CfgParent>

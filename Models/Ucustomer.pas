@@ -2,7 +2,9 @@ unit Ucustomer;
 
 interface
 type
-customer=class;
+customer=class
+
+end;
 
 implementation
 

@@ -2,7 +2,9 @@ unit Uitem;
 
 interface
 type
-item=class;
+item=class
+
+end;
 
 implementation
 

@@ -2,7 +2,9 @@ unit Usaleslineitem;
 
 interface
 type
-saleslineitem=class;
+ SalesLineItem = class
+
+ end;
 
 implementation
 
