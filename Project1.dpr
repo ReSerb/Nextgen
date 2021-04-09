@@ -16,7 +16,8 @@ uses
   UMoney in 'Models\UMoney.pas',
   Uproductdescription in 'Models\Uproductdescription.pas',
   UItemId in 'Models\UItemId.pas',
-  URegester in 'Models\URegester.pas';
+  URegester in 'Models\URegester.pas',
+  UDate in 'Models\UDate.pas';
 
 {$R *.res}
 
